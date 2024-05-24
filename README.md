@@ -3,10 +3,12 @@
 ### Project Overview
 in this project we will find the location wise crime and most crime type occured in historical data
 
+---
 ### Tools
 - Excel - Data Source
 - Power BI - Creating Reports
 
+---
 ### Crime Report
 
 - add Slicer By years
